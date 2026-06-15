@@ -1,5 +1,5 @@
 # IT System and Data Classification Policy
-
+Created by: Abraham Ampong
 ![Effective Date](https://img.shields.io/badge/Effective%20Date-07%2F01%2F2025-blue)
 ![Version](https://img.shields.io/badge/Version-5.0-green)
 ![Compliance](https://img.shields.io/badge/Compliance-SEC501-orange)
